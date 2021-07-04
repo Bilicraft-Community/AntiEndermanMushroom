@@ -1,0 +1,5 @@
+name: AntiEndermanMushroom
+version: ${project.version}
+main: com.bilicraft.antiendermanmushroom.AntiEndermanMushroom
+api-version: 1.17
+description: 禁止末影人在非主世界放下蘑菇
